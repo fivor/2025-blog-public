@@ -45,7 +45,7 @@
 			"id": "github",
 			"type": "github",
 			"value": "https://github.com/fivor",
-			"label": "Github",
+			"label": "",
 			"order": 2
 		},
 		{
@@ -66,7 +66,7 @@
 			"id": "button-1766316651653",
 			"type": "zhihu",
 			"value": "https://www.zhihu.com/people/hu-zhu-87",
-			"label": "知乎",
+			"label": "",
 			"order": 4
 		}
 	],
