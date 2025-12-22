@@ -1,5 +1,17 @@
 [
   {
+    "slug": "music-sollin",
+    "title": "Sollin | 把三大音乐平台塞进一个播放器里的多平台客户端",
+    "tags": [
+      "软件"
+    ],
+    "date": "2025-12-22T22:23",
+    "summary": "",
+    "cover": "/blogs/music-sollin/56f0f9c7f2fc6a84.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "fix-screen",
     "title": "解决电脑屏幕帧数问题",
     "tags": [
