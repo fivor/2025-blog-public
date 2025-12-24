@@ -30,9 +30,13 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "db18855aa18da460",
+			"url": "/images/art/db18855aa18da460.JPG"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "db18855aa18da460",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -72,9 +76,9 @@
 	],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
-	"isCachePem": false,
+	"isCachePem": true,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 12,
 	"hatFlipped": false
 }
