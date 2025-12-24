@@ -8,8 +8,8 @@
 		"enabled": true
 	},
 	"hiCard": {
-		"width": 358,
-		"height": 260,
+		"width": 360,
+		"height": 279,
 		"order": 1,
 		"offsetX": null,
 		"offsetY": null,
