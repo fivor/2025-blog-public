@@ -25,8 +25,8 @@
 		"enabled": true
 	},
 	"calendarCard": {
-		"width": 250,
-		"height": 220,
+		"width": 321,
+		"height": 275,
 		"order": 5,
 		"offsetX": 211,
 		"offsetY": -94,
@@ -45,8 +45,8 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": 128,
-		"offsetY": 154,
+		"offsetX": 135,
+		"offsetY": 216,
 		"enabled": true
 	},
 	"shareCard": {
@@ -85,16 +85,16 @@
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": 299,
-		"offsetY": 221,
+		"offsetX": 302,
+		"offsetY": 275,
 		"enabled": true
 	},
 	"hatCard": {
-		"width": 99,
-		"height": 105,
+		"width": 113,
+		"height": 112,
 		"order": 10,
-		"offsetX": -48,
-		"offsetY": -168,
+		"offsetX": -47,
+		"offsetY": -177,
 		"enabled": true
 	}
 }

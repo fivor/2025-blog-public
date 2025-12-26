@@ -53,13 +53,6 @@
 			"order": 2
 		},
 		{
-			"id": "email",
-			"type": "email",
-			"value": "371340896@qq.com",
-			"label": "",
-			"order": 1
-		},
-		{
 			"id": "button-1766313803413",
 			"type": "wechat",
 			"value": "ifivor",
