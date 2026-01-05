@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "Fivor的小站",
+		"title": "小小一站",
 		"description": "Fivor 的个人博客",
 		"username": "Fivor"
 	},
@@ -45,9 +45,13 @@
 		{
 			"id": "f102b56d3a2373fa",
 			"url": "/images/background/f102b56d3a2373fa.jpg"
+		},
+		{
+			"id": "685ac3a74a26ba1a",
+			"url": "/images/background/685ac3a74a26ba1a.jpg"
 		}
 	],
-	"currentBackgroundImageId": "f102b56d3a2373fa",
+	"currentBackgroundImageId": "685ac3a74a26ba1a",
 	"socialButtons": [
 		{
 			"id": "button-1766313803413",
