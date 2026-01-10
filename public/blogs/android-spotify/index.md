@@ -44,10 +44,6 @@ Spotify是由瑞典公司 Spotify AB开发的一款数字音乐流媒体服务�
 
 #### ✅ 任意随机播放模式 
 
-####   
-
-![](https://mmbiz.qpic.cn/mmbiz_png/8A5Um3spSnuFiaSh81OVhia9sXJbRDlMbOPXgeCo9V6NZH7BUZiaLlFkLf42TX9w0z8Rfj6TDZ2DKhD1UoHCkXmkA/640?wx_fmt=png&from=appmsg)
-
   
 
 ### 三、安装和登录提醒
@@ -69,10 +65,3 @@ Spotify是由瑞典公司 Spotify AB开发的一款数字音乐流媒体服务�
 关注微信公众号Fivor后，私聊发消息 “ spotify ” 或 “ 声破天 ” 即可获取安装包的下载链接。
 
 * * *
-
-
-> © 版权声明
-> 
-> 1.本公众号所有内容均来源于网络，版权归原版权方所有。如果侵犯了您的合法权益，请联系我们会及时删除。
-> 
-> 2.本公众号资源均来自互联网收集整理，仅供大家学习交流使用，不得用于任何商业用途。若使用商业用途，请购买正版授权，否则一切后果将由下载用户本人自行承担！
