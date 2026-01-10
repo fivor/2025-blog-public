@@ -1,5 +1,17 @@
 [
   {
+    "slug": "tg-free",
+    "title": "Telegram 新手注册避坑指南",
+    "tags": [
+      "软件"
+    ],
+    "date": "2026-01-10T18:01",
+    "summary": "Telegram 注册账号是免费的！ 如果遇到 +86 手机号要求支付验证费，请冷静，通过切换节点、重装 App 或更换客户端即可解决。不要因为误操作而白白花钱。",
+    "cover": "/blogs/tg-free/b62da45c7927020f.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "android-spotify",
     "title": "Spotify V9.1.6.1145 去广告绿色版-在线流媒体音乐平台",
     "tags": [
