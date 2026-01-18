@@ -1,5 +1,15 @@
 [
   {
+    "slug": "Blog-new",
+    "title": "如何0成本搭建Blog网站",
+    "tags": [],
+    "date": "2026-01-18T17:19",
+    "summary": "",
+    "cover": "/blogs/Blog-new/48c14fc4f6ddc403.png",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "tg-free",
     "title": "Telegram 新手注册避坑指南",
     "tags": [
