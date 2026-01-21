@@ -54,14 +54,14 @@
 			"type": "wechat",
 			"value": "ifivor",
 			"label": "",
-			"order": 3
+			"order": 1
 		},
 		{
 			"id": "button-1766316651653",
 			"type": "zhihu",
 			"value": "https://www.zhihu.com/people/hu-zhu-87",
 			"label": "",
-			"order": 4
+			"order": 2
 		}
 	],
 	"clockShowSeconds": false,
