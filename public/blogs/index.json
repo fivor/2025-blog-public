@@ -1,15 +1,5 @@
 [
   {
-    "slug": "Github-Store",
-    "title": "GitHub Store：程序员的App Store，真香！",
-    "tags": [],
-    "date": "2026-01-21T21:05",
-    "summary": "",
-    "cover": "/blogs/Github-Store/93f4dad104b27abc.png",
-    "hidden": false,
-    "category": ""
-  },
-  {
     "slug": "Blog-new",
     "title": "如何0成本搭建Blog网站",
     "tags": [],
@@ -29,7 +19,7 @@
     "summary": "Telegram 注册账号是免费的！ 如果遇到 +86 手机号要求支付验证费，请冷静，通过切换节点、重装 App 或更换客户端即可解决。不要因为误操作而白白花钱。",
     "cover": "/blogs/tg-free/b62da45c7927020f.png",
     "hidden": false,
-    "category": ""
+    "category": "总结"
   },
   {
     "slug": "android-spotify",
@@ -41,7 +31,7 @@
     "summary": "",
     "cover": "/blogs/android-spotify/ced9579e081b63ef.jpeg",
     "hidden": false,
-    "category": ""
+    "category": "软件"
   },
   {
     "slug": "iOS-Todoo",
@@ -54,7 +44,7 @@
     "summary": "",
     "cover": "/blogs/iOS-Todoo/806a929d28e4f6db.webp",
     "hidden": false,
-    "category": ""
+    "category": "软件"
   },
   {
     "slug": "music-sollin",
@@ -66,44 +56,7 @@
     "summary": "",
     "cover": "/blogs/music-sollin/56f0f9c7f2fc6a84.png",
     "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "fix-screen",
-    "title": "解决电脑屏幕帧数问题",
-    "tags": [
-      "维修",
-      "日常"
-    ],
-    "date": "2025-12-18T10:32",
-    "summary": "记录电脑屏幕帧数不够问题",
-    "cover": "/blogs/fix-screen/b2e72412daec0169.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "texture-format",
-    "title": "图片格式 —— 关于材质的大小研究",
-    "tags": [
-      "图片压缩",
-      "webp"
-    ],
-    "date": "2025-11-25",
-    "summary": "压缩图片的讨论",
-    "cover": "/blogs/texture-format/2c7d9391c47a1876.jpg",
-    "category": "总结"
-  },
-  {
-    "slug": "kuangyeshidai",
-    "title": "狂野时代",
-    "tags": [
-      "影评",
-      "日常"
-    ],
-    "date": "2025-11-22",
-    "summary": "观《狂野时代》后感",
-    "cover": "/blogs/kuangyeshidai/e260bea5dbfda5b7.jpg",
-    "hidden": false
+    "category": "软件"
   },
   {
     "slug": "liquid-grass",
@@ -114,8 +67,7 @@
     ],
     "date": "2025-11-21",
     "summary": "很简单就能实现这个液态玻璃效果，真棒",
-    "cover": "/blogs/liquid-grass/0e7190ecaedc4930.png",
-    "category": "代码实现"
+    "cover": "/blogs/liquid-grass/0e7190ecaedc4930.png"
   },
   {
     "slug": "readme",
@@ -152,52 +104,5 @@
     "summary": "这是重构blog网站的第一篇blog，终于把上个网站的blog 内容移动过来了。当然还有其它内容还没弄。",
     "cover": "/blogs/rewrite-blog-website/7ec6838f38c9161e.png",
     "category": "总结"
-  },
-  {
-    "slug": "retro-grid",
-    "title": "网格特效",
-    "tags": [
-      "开发",
-      "threejs"
-    ],
-    "date": "2025-10-14",
-    "summary": "网站设计中，网格实现的研究",
-    "cover": "/blogs/retro-grid/5f88408967c22d252c82ae65d1479d7dd9514921123fd4aeb372dd219037f708.png",
-    "category": "代码实现"
-  },
-  {
-    "slug": "first-ios-app",
-    "title": "第一款 ios App 发布",
-    "tags": [
-      "ios",
-      "开发"
-    ],
-    "date": "2025-08-12",
-    "summary": "使用 RN 制作第一款 ios app 并成功上线 App Store",
-    "cover": "/blogs/first-ios-app/45819dee9c379ae84728269f7ee7a7684862984969eb43987a170586511be3c3.png"
-  },
-  {
-    "slug": "pixel-motion",
-    "title": "像素画工具发布",
-    "tags": [
-      "像素画",
-      "阮一峰",
-      "PixelMotion"
-    ],
-    "date": "2025-08-08",
-    "summary": "一个支持模块化的像素画工具",
-    "cover": "/blogs/pixel-motion/391a0feb7dac7aaf82dc5df3ce11a1dfefe5d4ce241c68799da608073f4cc89d.png"
-  },
-  {
-    "slug": "globe",
-    "title": "地球效果实现",
-    "tags": [
-      "threejs",
-      "earth",
-      "preview"
-    ],
-    "date": "2025-07-23",
-    "summary": "一个简单的地球效果演示",
-    "cover": "/blogs/globe/b4abb83bdf919afd34a7934f9623e0ac7492151377c84f59005458b13b017fab.png"
   }
 ]
